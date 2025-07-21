@@ -48,5 +48,4 @@ e) to display the Original Work publicly.
 
 [A brief explanation of this license is available][0].
 
-
 [0]: http://rosenlaw.com/OSL3.0-explained.htm
